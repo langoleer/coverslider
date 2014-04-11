@@ -92,5 +92,5 @@ Bullets and navposition are markers to jump between content via bullets. Navposi
 Thumbnails may also be added in future releases for navigation below the slider. 
 
 
-Other future updates include themes for next/previous navigation links
+Other future updates include themes for next/previous navigation links, load/timer bar.
 		
