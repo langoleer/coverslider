@@ -1,0 +1,48 @@
+
+
+/* Specific styles */
+body{
+	background:#fff;
+	margin:0;
+	padding:0; 
+	}
+	.partial-full {
+		height:70%;
+		min-height:475px;
+	}
+	.full {
+		height:100%;
+		min-height:475px;
+	}
+	.div{
+		margin-top:30px;
+		height:300px;
+		width:800px;
+		position:relative;
+		left:50%;
+		margin-left:-400px;
+	}
+	.page{
+		background:#fff;
+		}
+		#menu-container{
+			background-color:#FFF;
+			}
+			#menu{
+				text-align:center;
+				z-index:1;
+				background-color:#FFF;
+				height:76px;
+				width:960px;
+				margin-left:-10px;
+				}
+				#menu span{
+					font-family: 'Calibri';
+					font-size:12pt;
+					padding:4px;
+					color: #051736;
+					font-weight:200;
+					 display:inline-block; vertical-align:middle;
+					}
+				
+				
