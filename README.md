@@ -1,7 +1,7 @@
 coverSlider
 ===========
 
-coverSlider.js - a slider that fits any size content
+coverSlider.js - a slider that fits any size content.
 
 Changelog
 ---------
